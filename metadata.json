@@ -1,0 +1,6 @@
+{
+  "name": "NeuroNotes AI",
+  "description": "Multi-modal lecture intelligence platform converting video, audio, and slides into timestamp-synced notes, Mermaid diagrams, code/LaTeX vaults, and active recall quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
